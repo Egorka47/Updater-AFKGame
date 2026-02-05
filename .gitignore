@@ -1,0 +1,12 @@
+dist/
+build/
+__pycache__/
+*.pyc
+.idea/
+*.spec
+dist/
+build/
+__pycache__/
+*.pyc
+.idea/
+*.spec
